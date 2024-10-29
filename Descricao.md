@@ -19,11 +19,27 @@ https://github.com/user-attachments/assets/61823d9f-2724-42ea-bc0a-90dd0d311004
 ## Avaliações
 
 ### Avaliador: Calebe Matias
-### Avaliador: Nome do Avaliador
 
-| Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
-|---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                           |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                           |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |                           |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                           |
+| Critério  | Pontuação |
+| ------------- | ------------- |
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores  | 3/3  |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 3/3  |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)  | 3/3  |
+| Extra: Implmentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1/1  |
+
+Observações: Utilizou o suporte de semáforo como extra.
+Total: 10
+
+
+
+### Avaliador: Vinicius Ibiapina
+
+| Critério  | Pontuação |
+| ------------- | ------------- |
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores  | 3/3  |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 3/3  |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)  | 3/3  |
+| Extra: Implmentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1/1  |
+
+Observações: Boa organização dos jumpers e código bem comentado.
+Total: 10
